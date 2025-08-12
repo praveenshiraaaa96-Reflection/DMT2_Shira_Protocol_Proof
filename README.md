@@ -1,6 +1,6 @@
 # DMT2 / Shira Protocol – Public Proof of Authorship
 
-On *(insert date), a sealed document outlining the foundational logic and principles of the **DMT2* system under the *Shira Protocol* was cryptographically timestamped on the Bitcoin blockchain.
+On *13/08/2025*, a sealed document outlining the foundational logic and principles of the **DMT2* system under the *Shira Protocol* was cryptographically timestamped on the Bitcoin blockchain.
 
 This repository contains:
 - *DMT2_Shira_Protocol_Sealed_Letter.pdf* – The sealed document.
