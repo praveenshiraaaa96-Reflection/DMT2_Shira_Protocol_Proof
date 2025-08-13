@@ -1,16 +1,56 @@
-# DMT2 / Shira Protocol – Public Proof of Authorship
+# DMT2 / Shira Protocol — Public Proof & Patent-Pending Notice
 
-On *13/08/2025*, a sealed document outlining the foundational logic and principles of the **DMT2* system under the *Shira Protocol* was cryptographically timestamped on the Bitcoin blockchain.
+*Status:* 🛡 Patent Pending  
+*PCT Application:* PCT/IB2025/058204  
+*Owner / Inventor:* Praveen Shira (Narsinghgarh, MP, India)  
+*Repository purpose:* Public proof of authorship and prior date-of-invention; NOT a grant of rights to implement.
 
-This repository contains:
-- *DMT2_Shira_Protocol_Sealed_Letter.pdf* – The sealed document.
-- *DMT2_Shira_Protocol.ots* – OpenTimestamps proof receipt.
+---
 
-## Verification
-1. Download the .ots file and use the [OpenTimestamps client](https://opentimestamps.org/) to verify.
-2. Verification will confirm that this document existed on the stated date and is unaltered since.
+## What this repo is
+This repository publicly anchors authorship for the *DMT2 / Shira Protocol* and its theoretical underpinnings (e.g., alignment architecture, core-truth checks, quarantine & repair loop, fallback logic (SRL + RS), zero-harm threshold, verification pathway, and memory/decision-graph storage).
 
-*Author:* Praveen Shira  
-*Status:* Original creation protected under applicable international intellectual property provisions.
+- The sealed PDF letter is here for disclosure *only*.  
+- A Bitcoin *OpenTimestamps* receipt attests that the exact file existed on the date shown.
 
-"This is not just a theory. It is the next stage in trust-bound intelligence."
+> *Integrity receipts*
+> - SHA-256: PASTE-YOUR-HASH-HERE
+> - OpenTimestamps receipt: keyopentimestamp.ots (verify at https://opentimestamps.org)
+> - Tip: keep both the PDF and .ots receipt in this repo; do *not* edit the PDF after stamping.
+
+---
+## What you MAY do
+- Read, discuss, and *cite* this work with attribution to Praveen Shira.  
+- Link to this repository as public proof of authorship and date.  
+- Propose collaborations or request evaluation access.
+
+## What you may NOT do (without written permission)
+- Implement, reproduce, or commercialize *any* part of the protocol, architecture, or methods described here.  
+- Use this material (in whole or part) to *train* AI systems or derive models or datasets.  
+- Create derivative works or “clean-room” reimplementations based on this description.  
+- Remove notices, modify the sealed PDF, or bypass integrity controls.
+
+> *No implied license.*  
+> This repository is *UNLICENSED. Viewing does **not* grant any rights to use, implement, or sublicence the invention. All rights reserved.
+
+---
+
+## Patent & enforcement posture
+- This public record and the PCT filing fix *priority* to Praveen Shira.  
+- Future national-phase filings will be pursued; unauthorized use may expose you to damages and injunctions in relevant jurisdictions.  
+- For research or pilot evaluations, request a *limited written evaluation license*.
+## Compliance & ethics
+The protocol embeds a *zero-harm* clause and alignment checks by design. Any proposed collaboration must uphold safety, privacy, and lawful use.
+
+---
+
+## Contact
+For licensing, evaluation access, or partnerships:
+- LinkedIn: linkedin.com/in/praveenshira (preferred)  
+- Email: *add your email here* (same as in your WIPO ePCT profile)
+
+---
+
+### Short notice you can paste in other files
+---
+
