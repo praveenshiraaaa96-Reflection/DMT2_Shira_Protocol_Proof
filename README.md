@@ -46,7 +46,7 @@ The protocol embeds a *zero-harm* clause and alignment checks by design. Any pro
 
 ## Contact
 For licensing, evaluation access, or partnerships:
-- LinkedIn: https://www.linkedin.com/in/praveen-shira-74956020b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- LinkedIn: https://www.linkedin.com/in/praveen-shira-74956020b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4ZjIXpQZSeWYBqSrz38C5g%3D%3D 
 - Email: *praveenshiraaaa96@gmail.com*
 
 ---
