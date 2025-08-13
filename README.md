@@ -14,7 +14,7 @@ This repository publicly anchors authorship for the *DMT2 / Shira Protocol* and 
 - A Bitcoin *OpenTimestamps* receipt attests that the exact file existed on the date shown.
 
 > *Integrity receipts*
-> - SHA-256: PASTE-YOUR-HASH-HERE
+> - SHA-256: e1525a3d5739a8776b366b949cac7c125d2766c68338fded837ef1df5b62be08
 > - OpenTimestamps receipt: keyopentimestamp.ots (verify at https://opentimestamps.org)
 > - Tip: keep both the PDF and .ots receipt in this repo; do *not* edit the PDF after stamping.
 
